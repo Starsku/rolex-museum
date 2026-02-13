@@ -4,7 +4,7 @@
     "year": 1926,
     "name": "Oyster",
     "description": "The world's first waterproof and dustproof wristwatch. It featured a hermetically sealed case which provided optimal protection for the movement.",
-    "image": "https://wsrv.nl/?url=https://images.rolex.com/archive/watches/oyster-perpetual/m124300-0001_modelpage_front_facing_landscape.png?imwidth=1080",
+    "image": "https://images.unsplash.com/photo-1614164185128-e4ec99c436d7?q=80&w=1080&auto=format&fit=crop",
     "type": "Classic"
   },
   {
@@ -12,7 +12,7 @@
     "year": 1931,
     "name": "Oyster Perpetual",
     "description": "The first self-winding mechanism with a Perpetual rotor. It is the heart of every modern automatic watch.",
-    "image": "https://wsrv.nl/?url=https://images.rolex.com/archive/watches/oyster-perpetual/m124300-0002_modelpage_front_facing_landscape.png?imwidth=1080",
+    "image": "https://images.unsplash.com/photo-1547996160-81dfa63595aa?q=80&w=1080&auto=format&fit=crop",
     "type": "Classic"
   },
   {
@@ -20,7 +20,7 @@
     "year": 1945,
     "name": "Datejust",
     "description": "The first self-winding waterproof chronometer wristwatch to display the date in a window on the dial.",
-    "image": "https://wsrv.nl/?url=https://images.rolex.com/archive/watches/datejust/m126234-0015_modelpage_front_facing_landscape.png?imwidth=1080",
+    "image": "https://images.unsplash.com/photo-1619134778706-7015533a6150?q=80&w=1080&auto=format&fit=crop",
     "type": "Classic"
   },
   {
@@ -28,7 +28,7 @@
     "year": 1953,
     "name": "Explorer",
     "description": "Created to celebrate the first successful ascent of Mount Everest. A watch that thrives in the toughest conditions.",
-    "image": "https://wsrv.nl/?url=https://images.rolex.com/archive/watches/explorer/m124270-0001_modelpage_front_facing_landscape.png?imwidth=1080",
+    "image": "https://images.unsplash.com/photo-1523170335258-f5ed11844a49?q=80&w=1080&auto=format&fit=crop",
     "type": "Professional"
   },
   {
@@ -36,15 +36,15 @@
     "year": 1953,
     "name": "Submariner",
     "description": "The first divers' watch waterproof to a depth of 100 metres (330 feet). The benchmark for divers' watches.",
-    "image": "https://wsrv.nl/?url=https://images.rolex.com/archive/watches/submariner/m124060-0001_modelpage_front_facing_landscape.png?imwidth=1080",
+    "image": "https://images.unsplash.com/photo-1548169874-53e85f753f1e?q=80&w=1080&auto=format&fit=crop",
     "type": "Professional"
   },
   {
     "id": "gmt-master-1955",
     "year": 1955,
     "name": "GMT-Master",
-    "description": "Developed to meet the specific needs of airline pilots. It became the official watch of several airlines, notably Pan Am.",
-    "image": "https://wsrv.nl/?url=https://images.rolex.com/archive/watches/gmt-master-ii/m126710blnr-0002_modelpage_front_facing_landscape.png?imwidth=1080",
+    "description": "Developed to meet the specific needs of airline pilots. It became the official watch of several airlines.",
+    "image": "https://images.unsplash.com/photo-1620625514770-42024422f472?q=80&w=1080&auto=format&fit=crop",
     "type": "Professional"
   },
   {
@@ -52,7 +52,7 @@
     "year": 1956,
     "name": "Day-Date",
     "description": "The first wristwatch to display the date and the day of the week spelt out in full in a window on the dial.",
-    "image": "https://wsrv.nl/?url=https://images.rolex.com/archive/watches/day-date/m228238-0006_modelpage_front_facing_landscape.png?imwidth=1080",
+    "image": "https://images.unsplash.com/photo-1542496658-e33a6d0d50f6?q=80&w=1080&auto=format&fit=crop",
     "type": "Classic"
   },
   {
@@ -60,7 +60,7 @@
     "year": 1956,
     "name": "Milgauss",
     "description": "Designed to resist magnetic fields of up to 1,000 gauss, ensuring the reliability and precision of a scientific instrument.",
-    "image": "https://wsrv.nl/?url=https://images.rolex.com/archive/watches/milgauss/m116400gv-0001_modelpage_front_facing_landscape.png?imwidth=1080",
+    "image": "https://images.unsplash.com/photo-1614164185128-e4ec99c436d7?q=80&w=1080&auto=format&fit=crop",
     "type": "Professional"
   },
   {
@@ -68,7 +68,7 @@
     "year": 1963,
     "name": "Cosmograph Daytona",
     "description": "Designed to meet the demands of professional racing drivers. A high-performance chronograph and icon of the track.",
-    "image": "https://wsrv.nl/?url=https://images.rolex.com/archive/watches/cosmograph-daytona/m126500ln-0001_modelpage_front_facing_landscape.png?imwidth=1080",
+    "image": "https://images.unsplash.com/photo-1548171916-c0ea9869919b?q=80&w=1080&auto=format&fit=crop",
     "type": "Professional"
   },
   {
@@ -76,7 +76,7 @@
     "year": 1967,
     "name": "Sea-Dweller",
     "description": "Designed for the pioneers of professional deep-sea diving. Waterproof to a depth of 610 metres (2,000 feet).",
-    "image": "https://wsrv.nl/?url=https://images.rolex.com/archive/watches/sea-dweller/m126600-0001_modelpage_front_facing_landscape.png?imwidth=1080",
+    "image": "https://images.unsplash.com/photo-1547996160-81dfa63595aa?q=80&w=1080&auto=format&fit=crop",
     "type": "Professional"
   },
   {
@@ -84,7 +84,7 @@
     "year": 1992,
     "name": "Yacht-Master",
     "description": "The watch of the open seas, combining style and performance for the world of sailing.",
-    "image": "https://wsrv.nl/?url=https://images.rolex.com/archive/watches/yacht-master/m226659-0002_modelpage_front_facing_landscape.png?imwidth=1080",
+    "image": "https://images.unsplash.com/photo-1619134778706-7015533a6150?q=80&w=1080&auto=format&fit=crop",
     "type": "Professional"
   },
   {
@@ -92,7 +92,7 @@
     "year": 2012,
     "name": "Sky-Dweller",
     "description": "A classic watch for world travellers, featuring a dual time zone and an annual calendar.",
-    "image": "https://wsrv.nl/?url=https://images.rolex.com/archive/watches/sky-dweller/m336934-0001_modelpage_front_facing_landscape.png?imwidth=1080",
+    "image": "https://images.unsplash.com/photo-1523170335258-f5ed11844a49?q=80&w=1080&auto=format&fit=crop",
     "type": "Classic"
   }
 ]
