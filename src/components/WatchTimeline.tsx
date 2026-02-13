@@ -1,7 +1,6 @@
 "use client";
 
 import { useRef, useEffect, useState } from "react";
-import Image from "next/image";
 
 interface Watch {
   id: string;
@@ -39,14 +38,11 @@ export default function WatchTimeline({ watches }: { watches: Watch[] }) {
             key={watch.id} 
             className="flex flex-col md:flex-row items-center gap-12 min-h-[60vh] border-b border-yellow-900/10 pb-24 last:border-0"
           >
-            <div className="relative w-full max-w-sm aspect-square bg-gradient-to-b from-yellow-900/5 to-transparent rounded-3xl p-8">
-              <Image
+            <div className="relative w-full max-w-sm aspect-square bg-gradient-to-b from-yellow-900/5 to-transparent rounded-3xl p-8 flex items-center justify-center">
+              <img
                 src={watch.image}
                 alt={watch.name}
-                fill
-                className="object-contain drop-shadow-2xl"
-                priority
-                unoptimized
+                className="max-w-full max-h-full object-contain drop-shadow-2xl"
               />
             </div>
 
