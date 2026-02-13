@@ -101,8 +101,7 @@ function WatchSlide({
     <motion.div
       style={{ opacity, scale, y }}
       className={cn(
-        "absolute inset-0 flex flex-col md:flex-row items-center justify-center gap-12",
-        opacity.get() === 0 ? "pointer-events-none" : "pointer-events-auto"
+        "absolute inset-0 flex flex-col md:flex-row items-center justify-center gap-12"
       )}
     >
       {/* Watch Image */}
